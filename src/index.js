@@ -1,3 +1,3 @@
 console.log('it work');
 
-import './style.css'
+import '../src/css/style.css'
